@@ -1,1 +1,2 @@
 This is 1st line in basic.txt for 1st commit
+This is 2nd line in basic.txt for 2nd commit
